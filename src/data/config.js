@@ -15,7 +15,7 @@ export const CONFIG = {
   monthsaryNumber: 27,
   monthsaryDateLabel: 'September 28, 2026',
 
-  ourSongTitle: 'Our Song',
-  ourSongSrc: '/assets/music/our-song.mp3',
+  ourSongTitle: 'Terrified',
+  ourSongSrc: '/assets/music/Katharine%20McPhee%20-%20Terrified%20(Lyrics)%20ft.%20Zachary%20Levi.mp3',
   ourSongFallback: '/assets/music/our-song.wav',
 }
